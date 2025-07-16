@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://phantom-marca.unidadeditorial.es/4a9dc9ebef4bb286aec3966c71702487/resize/828/f/jpg/assets/multimedia/imagenes/2021/08/09/16285056402026.jpg?text=Bhageeratha+Reddy+Portfolio" alt="Profile Banner" width="100%"/>
+  <img src="https://phantom-marca.unidadeditorial.es/4a9dc9ebef4bb286aec3966c71702487/resize/828/f/jpg/assets/multimedia/imagenes/2021/08/09/16285056402026.jpg?text=Bhageeratha+Reddy+Portfolio" alt="Profile Banner" width="100"/>
 </p>
 
 # 👨‍💻 Bhageeratha Reddy Kuppireddy
