@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://phantom-marca.unidadeditorial.es/4a9dc9ebef4bb286aec3966c71702487/resize/828/f/jpg/assets/multimedia/imagenes/2021/08/09/16285056402026.jpg?text=Bhageeratha+Reddy+Portfolio" alt="Profile Banner" width="100"/>
-</p>
+
 
 # 👨‍💻 Bhageeratha Reddy Kuppireddy
 
@@ -131,3 +129,9 @@ I built a **dad-joke-telling chatbot** that’s still dishing out cringe-worthy 
   ⭐ <b>Star my repos if you vibe with my projects!</b> ⭐<br>
   Always up for collaborating on AI, full-stack, or open-source adventures. Let’s build something epic! 🚀
 </p>
+
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTZoNmVrNGl0eTJ2NTY3dzQwZmk3NWNzOHA2Zmozb2U0M3Q2NzdyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iP8P6sbQTrmMM/giphy.gif"  alt="Coding GIF" width="650">
+</p>
+
