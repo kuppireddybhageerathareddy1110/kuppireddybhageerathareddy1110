@@ -1,137 +1,179 @@
-
-
 # 👨‍💻 Bhageeratha Reddy Kuppireddy
 
 <p align="center">
   <b>Hey there! I'm a developer & AI enthusiast from 🇮🇳 India, crafting code to solve real-world problems.</b><br>
-  <i>From ML models to high-performance Java apps, I build with passion and precision.</i><br>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2treGo2MWlsMm41bTYzZjJqNWs1dWdtcmNiaHRzeTdrMm9laGl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ff54BctkWA5ry/giphy.gif" alt="Coding GIF" width="500"/>
+  <i>From ML models to high-performance Java apps, I build with passion and precision.</i>
+</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Java+Performance+Engineer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2treGo2MWlsMm41bTYzZjJqNWs1dWdtcmNiaHRzeTdrMm9laGl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ff54BctkWA5ry/giphy.gif" width="500"/>
 </p>
 
 ---
+
 
 ## 🚀 What I'm Working On
-- 🧠 **Machine Learning**: Predicting heart disease, sentiment analysis, and wine quality with ML models.
-- 💻 **Java Multithreading**: Optimizing 4096×4096 matrix operations for speed and efficiency.
-- 🌐 **Full-Stack Dev**: Building sleek React + Flask dashboards and ML-driven web apps.
 
+- 🧠 **Machine Learning Systems** — Designing predictive models for healthcare analytics, sentiment analysis, and structured datasets using robust ML pipelines.
+
+- 🔬 **Deep Learning Applications** — Building sequence models such as **LSTM networks** for human activity recognition and sensor-based time-series data.
+
+- ⚡ **High-Performance Computing (Java)** — Developing **parallel matrix multiplication and 2D convolution algorithms** optimized for **4096×4096 matrices** using multithreading.
+
+- 🌐 **AI-Powered Web Applications** — Deploying machine learning models through **React + Flask dashboards** with interactive data visualizations.
+
+- 📊 **End-to-End Data Science Pipelines** — Feature engineering, model evaluation, hyperparameter tuning, and reproducible experimentation.
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwindcss,js,typescript,cpp,r,react,flask,django,tensorflow,pytorch,sklearn,ai,docker,aws,firebase,git,react,vite,nodejs,expressjs,nextjs,fastapi,linux,ubuntu,vscode,mysql,postgres,github,vercel,netlify,npm&perline=8" />
 </p>
 
-<p align="center">
-  <b>Frameworks & Libraries</b><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>Tools & Cloud</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>Data & Visualization</b><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-</p>
 
 ---
+# 🔍 Featured Projects
 
-## 🔍 Featured Projects
+## 🧠 Machine Learning Projects
 
 <details>
-  <summary><b>🫀 Heart Disease Classification</b></summary>
-  <p>Built ensemble ML models (Random Forest, Bagging) on a heart disease dataset, achieving 81%+ accuracy with tuned hyperparameters.<br>
-  <a href="https://github.com/kuppireddybhageerathareddy1110/heart-disease-ml">View Repository</a></p>
+<summary><b>🫀 Heart Disease Prediction System</b></summary>
+
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy  
+
+- Built ensemble machine learning models using **Random Forest and Bagging**.  
+- Performed **data preprocessing, feature engineering, and hyperparameter tuning**.  
+- Achieved **81%+ accuracy** on heart disease classification.  
+- Evaluated performance using **confusion matrix, ROC curve, and cross-validation**.
+
+🔗 https://github.com/kuppireddybhageerathareddy1110/heart-disease-ml
+
 </details>
 
 <details>
-  <summary><b>📉 Wine Quality Prediction</b></summary>
-  <p>Developed regression models (Ridge, Lasso, PCR) with a complete ML pipeline, including evaluation metrics and visualizations.<br>
-  <a href="https://github.com/kuppireddybhageerathareddy1110/wine-quality">View Repository</a></p>
-</details>
+<summary><b>🍷 Wine Quality Prediction</b></summary>
 
-<details>
-  <summary><b>🤖 Human Activity Recognition</b></summary>
-  <p>LSTM-based deep learning model to classify human activities using sensor data.<br>
-  <a href="https://github.com/kuppireddybhageerathareddy1110/activity-recognition">View Repository</a></p>
-</details>
+**Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib  
 
-<details>
-  <summary><b>📦 Matrix Operations</b></summary>
-  <p>High-performance Java code for parallel matrix multiplication and 2D convolution on 4096×4096 matrices.<br>
-  <a href="https://github.com/kuppireddybhageerathareddy1110/matrix-java">View Repository</a></p>
+- Built regression models including **Ridge, Lasso, and Principal Component Regression**.  
+- Implemented a **complete ML pipeline** with preprocessing and model evaluation.  
+- Visualized model performance and feature relationships.
+
+🔗 https://github.com/kuppireddybhageerathareddy1110/wine-quality
+
 </details>
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 🤖 Deep Learning
+
+<details>
+<summary><b>🏃 Human Activity Recognition</b></summary>
+
+**Tech Stack:** Python, TensorFlow / PyTorch, LSTM Networks  
+
+- Developed a **deep learning model using LSTM architecture**.  
+- Classified human activities from **sensor time-series data**.  
+- Implemented sequence modeling and neural network training pipeline.
+
+🔗 https://github.com/kuppireddybhageerathareddy1110/activity-recognition
+
+</details>
+
+---
+
+## ⚡ High-Performance Computing
+
+<details>
+<summary><b>📦 Parallel Matrix Operations</b></summary>
+
+**Tech Stack:** Java, Multithreading, High-Performance Computing  
+
+- Implemented **parallel matrix multiplication and 2D convolution**.  
+- Optimized computation on **4096×4096 matrices** using Java multithreading.  
+- Focused on **performance optimization and concurrent processing**.
+
+🔗 https://github.com/kuppireddybhageerathareddy1110/matrix-java
+
+</details>
+
+---
+
+# 📊 GitHub Stats
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuppireddybhageerathareddy1110&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuppireddybhageerathareddy1110&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kuppireddybhageerathareddy1110&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=kuppireddybhageerathareddy1110&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuppireddybhageerathareddy1110&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+# 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhageerathareddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="bhageerathareddykuppireddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-five-pi-wkgf3srveu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuppireddybhageerathareddy1110&theme=github-compact"/>
 </p>
 
-<p align="center"><i>Portfolio in progress — stay tuned! 🚧</i></p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuppireddybhageerathareddy1110&theme=github_dark"/>
+</p>
+
 
 ---
 
-## ⚡ Fun Fact
-I built a **dad-joke-telling chatbot** that’s still dishing out cringe-worthy puns! When I'm not coding, you’ll find me debugging at 2 AM with lo-fi beats and a coffee in hand. ☕😎
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kuppireddybhageerathareddy1110&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bhageerathareddy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bhageerathareddykuppireddy@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-five-pi-wkgf3srveu.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<i>Portfolio in progress — stay tuned! 🚧</i>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I built a **dad-joke chatbot** that still delivers cringe-worthy puns.
+
+When I'm not coding you'll find me **debugging at 2 AM with lo-fi beats and coffee. ☕**
 
 ---
 
 <p align="center">
-  <i>"Code is like humor: when you have to explain it, it’s bad." — Cory House</i><br>
-  ⭐ <b>Star my repos if you vibe with my projects!</b> ⭐<br>
-  Always up for collaborating on AI, full-stack, or open-source adventures. Let’s build something epic! 🚀
-</p>
+<i>"Code is like humor: when you have to explain it, it’s bad." — Cory House</i>
 
+⭐ Star my repos if you enjoy my projects!
+
+Always open to **AI, full-stack, and open-source collaborations.**
+</p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTZoNmVrNGl0eTJ2NTY3dzQwZmk3NWNzOHA2Zmozb2U0M3Q2NzdyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iP8P6sbQTrmMM/giphy.gif"  alt="Coding GIF" width="650">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTZoNmVrNGl0eTJ2NTY3dzQwZmk3NWNzOHA2Zmozb2U0M3Q2NzdyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iP8P6sbQTrmMM/giphy.gif" width="650">
 </p>
-
