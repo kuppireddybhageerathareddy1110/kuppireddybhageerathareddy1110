@@ -124,6 +124,15 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuppireddybhageerathareddy1110&theme=github_dark"/>
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kuppireddybhageerathareddy1110/kuppireddybhageerathareddy1110/output/github-contribution-grid-snake.svg">
+</p>
+
+
+
+
+
+
 
 
 ---
@@ -139,6 +148,7 @@
 # 📫 Let's Connect
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/bhageerathareddy">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -150,6 +160,7 @@
 <a href="https://portfolio-five-pi-wkgf3srveu.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white"/>
 </a>
+
 </p>
 
 <p align="center">
@@ -158,13 +169,6 @@
 
 ---
 
-# ⚡ Fun Fact
-
-I built a **dad-joke chatbot** that still delivers cringe-worthy puns.
-
-When I'm not coding you'll find me **debugging at 2 AM with lo-fi beats and coffee. ☕**
-
----
 
 <p align="center">
 <i>"Code is like humor: when you have to explain it, it’s bad." — Cory House</i>
