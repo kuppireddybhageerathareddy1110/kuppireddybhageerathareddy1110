@@ -205,14 +205,16 @@ me.say_hi()
 
 <div align="center">
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kuppireddybhageerathareddy1110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kuppireddybhageerathareddy1110&theme=tokyonight&hide_border=true" />
-
-<br/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kuppireddybhageerathareddy1110&theme=tokyonight&hide_border=true"/>
 
 </div>
+<div align="center">
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuppireddybhageerathareddy1110&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</div>
 
 
 ---
