@@ -242,6 +242,9 @@ me.say_hi()
 </p>
 
 ---
+## 📊 3D Contributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 📫 Connect With Me
 
