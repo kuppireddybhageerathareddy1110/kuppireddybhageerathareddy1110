@@ -4,11 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Bhageeratha%20Reddy%20Kuppireddy&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20%7C%20Java%20HPC&descAlignY=60&descColor=94a3b8&descSize=18"/>
 
 <!-- TYPING ANIMATION -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Java+Performance+Engineer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Java+Performance+Engineer;Open+Source+Enthusiast&center=true&width=500&height=45&color=38bdf8&vCenter=true&pause=1000">
 </p>
-
 
 <br/>
 
@@ -22,6 +20,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhageerathareddykuppireddy@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-pi-wkgf3srveu.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuppireddybhageerathareddy1110)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kuppireddy_bhageeratha_reddy)
 
 <br/>
 
@@ -51,6 +50,7 @@ class BhageератhaReddy:
         self.interests  = ["Machine Learning", "Deep Learning", "HPC", "Open Source"]
         self.currently  = "Building ML systems & AI-powered web apps"
         self.open_to    = "AI · Full-Stack · Open-Source Collaborations ⭐"
+        self.fun_fact   = "I debug best with lo-fi music playing 🎵"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
@@ -58,6 +58,18 @@ class BhageератhaReddy:
 me = BhageератhaReddy()
 me.say_hi()
 ```
+
+---
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+| 🧠 ML Projects | 🏆 Best Accuracy | ⚡ Matrix Scale | 🌐 Frameworks | ☕ Languages |
+|:-:|:-:|:-:|:-:|:-:|
+| **5+** | **81%+** | **4096 × 4096** | **10+** | **6** |
+
+</div>
 
 ---
 
@@ -70,6 +82,32 @@ me.say_hi()
 | ⚡ **Java HPC** | Parallel matrix multiplication & 2D convolution on 4096×4096 matrices |
 | 🌐 **AI Web Apps** | Deploying ML models via React + Flask dashboards with live visualizations |
 | 📊 **Data Science** | Feature engineering, hyperparameter tuning, reproducible experiments |
+| 🤖 **Exploring** | Large Language Models, RAG pipelines & AI agents |
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year |
+|-----------|---------------|---------|
+| B.Tech — Computer Science & Engineering | VIT-AP University | 2022 – 2026 |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+🔭  Large Language Models & RAG pipelines
+⚡  Kubernetes & container orchestration
+🦀  Rust programming language
+📖  Reading: "Designing Machine Learning Systems" — Chip Huyen
+🎯  Goal: Meaningful open-source contributions to ML libraries
+🌐  Exploring: MLOps, model serving & production AI systems
+```
 
 ---
 
@@ -90,6 +128,8 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 Web & Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -109,11 +149,14 @@ me.say_hi()
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🗄️ Databases & OS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -121,7 +164,7 @@ me.say_hi()
 ### 🎨 All Icons at a Glance
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwindcss,js,typescript,cpp,r,react,flask,django,tensorflow,pytorch,sklearn,docker,aws,firebase,git,vite,nodejs,nextjs,fastapi,linux,ubuntu,vscode,mysql,postgres,github,vercel,netlify,npm&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwindcss,js,typescript,cpp,r,react,flask,django,tensorflow,pytorch,sklearn,docker,aws,firebase,git,vite,nodejs,nextjs,fastapi,linux,ubuntu,vscode,mysql,postgres,mongodb,redis,github,vercel,netlify,npm&perline=9" />
 </p>
 
 ---
@@ -161,6 +204,21 @@ me.say_hi()
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuppireddybhageerathareddy1110/wine-quality)
 </details>
 
+<details>
+<summary><b>💬 Sentiment Analysis Engine</b> &nbsp; <img src="https://img.shields.io/badge/NLP-Transformers-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></summary>
+<br/>
+
+> NLP pipeline for multi-class sentiment classification on real-world text data.
+
+**🔧 Tech:** Python · NLTK · Scikit-learn · Pandas · Seaborn
+
+- Built a text classification pipeline with **TF-IDF vectorization**
+- Applied **Logistic Regression, Naive Bayes, and SVM** for sentiment scoring
+- Handled class imbalance and visualized confusion matrices and word clouds
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuppireddybhageerathareddy1110)
+</details>
+
 ---
 
 ### 🤖 Deep Learning
@@ -178,6 +236,25 @@ me.say_hi()
 - Implemented sequence modeling and full neural network training pipeline
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuppireddybhageerathareddy1110/activity-recognition)
+</details>
+
+---
+
+### 🌐 AI Web Apps
+
+<details>
+<summary><b>📊 ML Model Dashboard</b> &nbsp; <img src="https://img.shields.io/badge/Stack-React%2BFlask-61DAFB?style=flat-square"/> <img src="https://img.shields.io/badge/Live-Visualizations-orange?style=flat-square"/></summary>
+<br/>
+
+> Full-stack web app that deploys ML models with real-time predictions and interactive charts.
+
+**🔧 Tech:** React · Flask · Python · Chart.js · Tailwind CSS
+
+- Built a **REST API with Flask** to serve trained ML models
+- Developed a **React dashboard** with live prediction visualizations
+- Integrated **file upload, real-time inference, and result display**
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuppireddybhageerathareddy1110)
 </details>
 
 ---
@@ -200,6 +277,19 @@ me.say_hi()
 </details>
 
 ---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+| 🥇 | 💯 | 🧠 | ⚡ | 🌍 | 🔬 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| First PR Merged | Consistent Coder | ML Systems Builder | HPC Champion | Open Source Contributor | Deep Learning Explorer |
+
+</div>
+
+---
+
 ## 📈 LeetCode Progress
 
 <div align="center">
@@ -209,25 +299,27 @@ me.say_hi()
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kuppireddybhageerathareddy1110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kuppireddybhageerathareddy1110&theme=tokyonight&hide_border=true"/>
-
-</div>
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuppireddybhageerathareddy1110&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuppireddybhageerathareddy1110&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
 </div>
 
+<br>
 
+
+<p align="center">
+  <strong>GitHub Stats</strong>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kuppireddybhageerathareddy1110&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kuppireddybhageerathareddy1110&theme=tokyonight&layout=compact" alt="Top Languages" width="48%" />
+</p>
 ---
-
-
 
 ## 📈 Contribution Activity
 
@@ -239,8 +331,6 @@ me.say_hi()
 
 </div>
 
-
-
 ---
 
 ## 🐍 Contribution Snake
@@ -250,9 +340,25 @@ me.say_hi()
 </p>
 
 ---
+
 ## 📊 3D Contributions
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+## ⚡ Fun Facts & Personality
+
+```text
+🎵  I debug best with lo-fi music playing
+♟️  Chess player — apply strategy to code too
+🌌  Fascinated by astronomy & the cosmos
+☕  Coffee + Python = infinite productivity
+📚  Currently reading: "Deep Learning" — Goodfellow, Bengio & Courville
+🔁  Motto: Build · Break · Learn · Repeat
+```
+
+---
 
 ## 📫 Connect With Me
 
@@ -261,6 +367,7 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhageerathareddykuppireddy/)
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhageerathareddykuppireddy@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-pi-wkgf3srveu.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kuppireddy_bhageeratha_reddy)
 
 </div>
 
