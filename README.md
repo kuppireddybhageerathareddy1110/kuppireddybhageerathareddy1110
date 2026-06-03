@@ -200,7 +200,15 @@ me.say_hi()
 </details>
 
 ---
+## 📈 LeetCode Progress
 
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kuppireddy_bhageeratha_reddy?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/kuppireddy_bhageeratha_reddy)
+
+</div>
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
